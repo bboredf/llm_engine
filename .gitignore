@@ -1,0 +1,11 @@
+# Build files
+*.exe
+*.o
+*.obj
+build/
+
+# Modelli e dati
+*.gguf
+
+# Vari file di IDE
+.vscode/
